@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background:white;
+    margin: 0;
+}
+
+header {
+    background:beige;
+    height:15%;
+    margin-top:0;
+    /* box-sizing: border-box; */
+}
+
+.box {
+    background:blue;
+    height:80%;
+    width:7%;
+    margin-left:10px;
+    margin-top:10px;
+
+}
+
+.second{
+    background:white;
+    height:30%;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 20pt;
+    font-display: block;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+
+.colors {
+    height:55%;
+}
+
+.blue {
+    background:blue;
+    height:25%;
+}
+
+.turquoise{
+    background:turquoise;
+    height:25%;
+}
+
+.green {
+    background:lightgreen;
+    height:25%;
+}
+.yellow {
+    background:yellow;
+    height:25%;
+}
